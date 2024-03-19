@@ -8,6 +8,7 @@ meta charset ="UTF-8"
 
 <h1>First heading</h1>
 <p>First paragraph</p>
+<h2>Second heading</h2>
 
 </body>
 </html>
